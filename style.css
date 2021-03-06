@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+#contact {
+    background: linear-gradient(blue, skyblue);
+}
+
+#map {
+    width: 100%;
+}
+
+#cpage img {
+    width: 100%;
+}
+
+#c {
+    color: azure;
+}
+#cpage h1{
+    text-decoration: underline;
+    color: black;
+}
